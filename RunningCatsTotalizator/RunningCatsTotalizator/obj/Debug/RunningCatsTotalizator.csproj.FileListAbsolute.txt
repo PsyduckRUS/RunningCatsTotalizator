@@ -1,0 +1,6 @@
+C:\Users\Kostya\Desktop\master\course\1\RunningCatsTotalizator\RunningCatsTotalizator\RunningCatsTotalizator\bin\Debug\RunningCatsTotalizator.exe.config
+C:\Users\Kostya\Desktop\master\course\1\RunningCatsTotalizator\RunningCatsTotalizator\RunningCatsTotalizator\bin\Debug\RunningCatsTotalizator.exe
+C:\Users\Kostya\Desktop\master\course\1\RunningCatsTotalizator\RunningCatsTotalizator\RunningCatsTotalizator\bin\Debug\RunningCatsTotalizator.pdb
+C:\Users\Kostya\Desktop\master\course\1\RunningCatsTotalizator\RunningCatsTotalizator\RunningCatsTotalizator\obj\Debug\RunningCatsTotalizator.csprojAssemblyReference.cache
+C:\Users\Kostya\Desktop\master\course\1\RunningCatsTotalizator\RunningCatsTotalizator\RunningCatsTotalizator\obj\Debug\RunningCatsTotalizator.exe
+C:\Users\Kostya\Desktop\master\course\1\RunningCatsTotalizator\RunningCatsTotalizator\RunningCatsTotalizator\obj\Debug\RunningCatsTotalizator.pdb
