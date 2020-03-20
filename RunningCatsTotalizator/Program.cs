@@ -20,8 +20,6 @@ namespace RunningCatsTotalizator
             Console.WriteLine($"Каждый из котов имеет свой уникальный номер. Вам нужно угадать кто прибежит к финишу первым.");
             Console.WriteLine($"Для этого достаточно просто ввести его номер с клавиатуры и узнать угадали или нет!");
             Console.WriteLine($"Хотите сыграть? (введите \"да\" чтобы сыграть или \"нет\", чтобы завершить игру)");
-            //Check-check
-            //morechecks
             while (true)
             {
                 string firstInput = Console.ReadLine();
